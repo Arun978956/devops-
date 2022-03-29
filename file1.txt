@@ -1,1 +1,4 @@
 this is file1
+this is demo for git stash
+welcome to AWS
+welcome to Azure
