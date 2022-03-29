@@ -1,1 +1,3 @@
 this is file2 and also the demo
+this is demo for stash
+this is git stash
